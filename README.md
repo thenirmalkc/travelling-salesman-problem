@@ -1,5 +1,5 @@
 # Travelling Salesman Problem
 
-## Live Demo [Click Here!!](https://thenirmalkc.github.io/travelling-salesman/)
+## Live Demo [Click Here!!](https://thenirmalkc.github.io/travelling-salesman-problem/)
 
-![Travelling Salesman](screenshots/travelling-salesman-problem.png)
+![Travelling Salesman](screenshots/travelling-salesman.png)
